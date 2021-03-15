@@ -1,6 +1,6 @@
 .parallax {
   /* The image used */
-  background-image: url("Images/bgImage.jpg");
+  background-image: url("assets/bgImage.jpg");
 
   /* Set a specific height */
   min-height: 800px; 
@@ -11,6 +11,7 @@
   background-repeat: no-repeat;
   background-size: cover;
 }
+
 #fontColor{
 	color: black;
 }
@@ -47,6 +48,26 @@ border:0px solid black;}
 margin-top:15px;
 width:400px;
 height:400px;
+}
+.award{
+text-align:center;
+margin-top:0px;}
+
+#intro-home{
+border-bottom:0px solid black;
+margin-top:10px;
+padding:16px;}
+
+.intro-home-para{
+margin-top:16px;
+text-indent:30px;
+font-size:20px;
+}
+
+.CameraLogo{
+max-height:80px;
+max-width:80px;
+margin-left:70%;
 }
 
 #footer-home{
